@@ -1,4 +1,7 @@
 {
+	"scripts": {
+		"dev":"pnpm dlx tailwindcss -i ./css/input.css -o ./css/index.css --watch"
+	},
 	"devDependencies": {
 		"tailwindcss": "^3.4.1"
 	}
